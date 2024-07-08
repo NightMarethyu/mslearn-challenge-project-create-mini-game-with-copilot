@@ -16,7 +16,12 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"gitHub.copilot",
+				"github.copilot-chat",
+				"esbenp.prettier-vscode",
+				"davidanson.vscode-markdownlint",
+				"dbaeumer.vscode-eslint"
 			]
 		}
 	},
